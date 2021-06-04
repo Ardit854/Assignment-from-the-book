@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s7SP9Jniivljey+LOVMeqjLbKPMY9+ZufxYxlwy3eV+B7YFtruBpc0hxgM+Y8zt1kRvwqYRPiNfkmrpzluOm6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Hyrje ne struktura te te dhenave-C#\\Chapter10\\Detyra8\\Detyra8\\Detyra8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

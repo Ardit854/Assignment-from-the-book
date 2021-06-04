@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.exe
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.deps.json
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.runtimeconfig.json
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.dll
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\bin\Debug\netcoreapp3.1\Detyra2.pdb
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.dll
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.pdb
+C:\Users\Asus\Desktop\Hyrje ne struktura te te dhenave-C#\Chapter10\Detyra2\Detyra2\obj\Debug\netcoreapp3.1\Detyra2.genruntimeconfig.cache
